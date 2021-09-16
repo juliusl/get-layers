@@ -4,7 +4,7 @@ replace oras.land/oras-go => github.com/juliusl/oras-go v0.4.1-0.20210916105232-
 
 go 1.17
 
-require github.com/juliusl/azorasrc v0.0.0-20210916101422-c29ad732b530
+require github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect

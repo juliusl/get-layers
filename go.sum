@@ -418,8 +418,8 @@ github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1
 github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/XSXhF0NWZEnDohbsk=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
-github.com/juliusl/azorasrc v0.0.0-20210916101422-c29ad732b530 h1:PqBWPYfdd7k/imxGqBM3637L5qLP87xVdhhL61pRSpw=
-github.com/juliusl/azorasrc v0.0.0-20210916101422-c29ad732b530/go.mod h1:AdOP702Vw2vIoYHqfa+VSKVjVraG18ULMkyR7fKOITg=
+github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45 h1:lFYazaL9A7zZrO5d/jy3W5YgrI77ZKVZMk2hP/b8e8w=
+github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45/go.mod h1:AdOP702Vw2vIoYHqfa+VSKVjVraG18ULMkyR7fKOITg=
 github.com/juliusl/oras-go v0.4.1-0.20210916105232-3b6aeb4fd286 h1:voBognf1LtyeRifcGYgv7oduxd8V91wp7OlBes4ujQc=
 github.com/juliusl/oras-go v0.4.1-0.20210916105232-3b6aeb4fd286/go.mod h1:cl8yg3F4PRtb9VIG66teA1Nrr1P3PCoDs5pQZlqmQpM=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
