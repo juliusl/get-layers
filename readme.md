@@ -7,8 +7,17 @@ Minimal code to get layers.
 go run ./main.go registry-1.docker.io/library/ubuntu:latest
 ```
 
-The output will be the layers that were downloaded. By default I download to the temp folder, and the file names
-are the digest without an extension.
+The output will be filepaths to layers that were downloaded. By default I download to the temp folder, and the file names
+are the digest without an extension. I currently only download layers. But downloading the config is a one more line of code in main.go
+```
+auto.Fetch(ctx, manifest.Config)
+
+written, err := auto.Fetch(ctx, manifest.Layers)
+```
+
+Try it as an exercise.
+
+## Auth
 
 If your docker config is already set up, this will read from that.
 
