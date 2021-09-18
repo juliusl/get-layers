@@ -4,7 +4,7 @@ if [ ! -f "./install-oras.sh" ]; then
     curl https://raw.githubusercontent.com/juliusl/azorasrc/main/scripts/get-oras.sh | sh; 
 fi
 
-. ./install-oras.sh
+. './install-oras.sh'
 
 registry=
 

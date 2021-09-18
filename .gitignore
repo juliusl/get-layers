@@ -1,3 +1,9 @@
 install-oras.sh
 oras_amd64.tar.gz
 get-layers
+rootfs/*
+config.json
+settings.json
+image
+layers
+extract.sh

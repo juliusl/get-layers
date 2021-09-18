@@ -418,10 +418,10 @@ github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1
 github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/XSXhF0NWZEnDohbsk=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
-github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45 h1:lFYazaL9A7zZrO5d/jy3W5YgrI77ZKVZMk2hP/b8e8w=
-github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45/go.mod h1:AdOP702Vw2vIoYHqfa+VSKVjVraG18ULMkyR7fKOITg=
-github.com/juliusl/oras-go v0.4.1-0.20210916105232-3b6aeb4fd286 h1:voBognf1LtyeRifcGYgv7oduxd8V91wp7OlBes4ujQc=
-github.com/juliusl/oras-go v0.4.1-0.20210916105232-3b6aeb4fd286/go.mod h1:cl8yg3F4PRtb9VIG66teA1Nrr1P3PCoDs5pQZlqmQpM=
+github.com/juliusl/azorasrc v0.0.0-20210917053501-5e37bb579c9e h1:Agm1U5af7fXdprgUFRHUqf/OiJe6Eji8LmLLEkoisJo=
+github.com/juliusl/azorasrc v0.0.0-20210917053501-5e37bb579c9e/go.mod h1:AeMvHRR5jrd+HCi51oHI02UInYcodCSuOuL4jkx5z9U=
+github.com/juliusl/oras-go v0.4.1-0.20210918030711-049a2db5d340 h1:e8PwupaZPuqlxBlPLS5eRHXx4fjsO2gzSwlhFdVc5h8=
+github.com/juliusl/oras-go v0.4.1-0.20210918030711-049a2db5d340/go.mod h1:cl8yg3F4PRtb9VIG66teA1Nrr1P3PCoDs5pQZlqmQpM=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
@@ -1051,7 +1051,6 @@ k8s.io/kube-openapi v0.0.0-20201113171705-d219536bb9fd/go.mod h1:WOJ3KddDSol4tAG
 k8s.io/kubernetes v1.13.0/go.mod h1:ocZa8+6APFNC2tX1DZASIbocyYT5jHzqFVsY5aoB7Jk=
 k8s.io/utils v0.0.0-20201110183641-67b214c5f920/go.mod h1:jPW/WVKK9YHAvNhRxK0md/EJ228hCsBRufyofKtW8HA=
 rsc.io/binaryregexp v0.2.0/go.mod h1:qTv7/COck+e2FymRvadv62gMdZztPaShugOCi3I+8D8=
-rsc.io/letsencrypt v0.0.3/go.mod h1:buyQKZ6IXrRnB7TdkHP0RyEybLx18HHyOSoTyoOLqNY=
 rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
 rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
 sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.0.14/go.mod h1:LEScyzhFmoF5pso/YSeBstl57mOzx9xlU9n85RGrDQg=
