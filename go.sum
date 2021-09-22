@@ -420,6 +420,8 @@ github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfV
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45 h1:lFYazaL9A7zZrO5d/jy3W5YgrI77ZKVZMk2hP/b8e8w=
 github.com/juliusl/azorasrc v0.0.0-20210916210210-5263ae912a45/go.mod h1:AdOP702Vw2vIoYHqfa+VSKVjVraG18ULMkyR7fKOITg=
+github.com/juliusl/azorasrc v0.0.0-20210922213618-d90f4881e229 h1:z4Lty5XIT1D90DGrhsN5WG6fSt6TWF9BAAjVgTCj8g4=
+github.com/juliusl/azorasrc v0.0.0-20210922213618-d90f4881e229/go.mod h1:AdOP702Vw2vIoYHqfa+VSKVjVraG18ULMkyR7fKOITg=
 github.com/juliusl/oras-go v0.4.1-0.20210916105232-3b6aeb4fd286 h1:voBognf1LtyeRifcGYgv7oduxd8V91wp7OlBes4ujQc=
 github.com/juliusl/oras-go v0.4.1-0.20210916105232-3b6aeb4fd286/go.mod h1:cl8yg3F4PRtb9VIG66teA1Nrr1P3PCoDs5pQZlqmQpM=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
